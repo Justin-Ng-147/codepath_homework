@@ -31,9 +31,9 @@ Description:
 
 ## Green
 
-Vulnerability #1: __________________
+Vulnerability #1: Username Enumeration
 
-Description:
+Description: A difference in the class in the span allows us to determimne whether or not a username exists
 
 <img src="green-vuln1.gif">
 
