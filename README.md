@@ -17,9 +17,9 @@ Each color is vulnerable to only 2 of the 6 possible exploits. First discover wh
 
 ## Blue
 
-Vulnerability #1: __________________
+Vulnerability #1: SQL Injection (SQLi)
 
-Description:
+Description: with a true and statement in the query, it goes through and we get the person at the id but with a false and statement, we get redirected showing that the site is vulnerable to sql injection.
 
 <img src="blue-vuln1.gif">
 
