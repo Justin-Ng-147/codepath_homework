@@ -46,10 +46,9 @@ Description:
 
 ## Red
 
-Vulnerability #1: __________________
+Vulnerability #1: Insecure Direct Object Reference (IDOR)
 
-Description:
-
+Description: this site allows the public to see id #s above whats allowed (in this case 9) while with the other sites, it'll redirect you back if thee public tries to go above 9
 <img src="red-vuln1.gif">
 
 Vulnerability #2: __________________
